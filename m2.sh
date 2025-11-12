@@ -1,1 +1,1 @@
-echo "hiii"
+echo "GG"
